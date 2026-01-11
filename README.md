@@ -11,7 +11,8 @@ This project provides a **full Linux desktop installer** for ComfyUI with embedd
 - Demo GUI installer with progress bar
 - Logs and diagnostics
 - Portable mode
-- ZIP ready for GitHub with icons and workflow diagram
+- !!!  Pre Alfa version (DEMO) !!!!
+- It's important to me that someone implements this idea (one-click installation in Linux, with a dialog box). I'm not a programmer (I'm just learning :)
 
 ## Quick Start
 
