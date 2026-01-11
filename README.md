@@ -12,7 +12,7 @@ This project provides a **full Linux desktop installer** for ComfyUI with embedd
 - Logs and diagnostics
 - Portable mode
 - !!!  Pre Alfa version (DEMO) !!!!
-- It's important to me that someone implements this idea (one-click installation in Linux, with a dialog box). I'm not a programmer (I'm just learning :)
+  
 
 ## Quick Start
 
@@ -25,4 +25,4 @@ This project provides a **full Linux desktop installer** for ComfyUI with embedd
 ## Idea Visualization
 
 
-Goal: provide a **desktop-like installer for Linux users**, similar to Windows one-click installers, ready to demonstrate to ComfyUI developers.
+Goal: provide a **desktop-like installer for Linux users**, similar to Windows one-click installers, ready to demonstrate to ComfyUI developers.It's important to me that someone implements this idea (one-click installation in Linux, with a dialog box). I'm not a programmer (I'm just learning :)
