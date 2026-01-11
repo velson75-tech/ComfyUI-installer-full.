@@ -23,6 +23,5 @@ This project provides a **full Linux desktop installer** for ComfyUI with embedd
 
 ## Idea Visualization
 
-![ComfyUI Installer Workflow](icons/gui_preview.png)
 
 Goal: provide a **desktop-like installer for Linux users**, similar to Windows one-click installers, ready to demonstrate to ComfyUI developers.
