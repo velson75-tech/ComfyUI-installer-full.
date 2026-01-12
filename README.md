@@ -16,7 +16,7 @@ This project provides a **full Linux desktop installer** for ComfyUI with embedd
 
 ## Quick Start
 
-1. Run `installer_full.sh`
+1. Run `ComfyUI Desktop Installerll.sh `
 2. Follow the GUI installer or terminal prompts
 3. Launch ComfyUI via `launcher.sh` or `safe_launcher.sh`
 4. Check `install.log` for errors
